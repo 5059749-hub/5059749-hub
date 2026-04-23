@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gemaortizprivados23-lgtm/gemaortizprivados23-lgtm/main/banner.png" width="95%" />
-</p>" width="95%" />
+  <img src="https://github.com/5059749-hub/5059749-hub/blob/005c718bb0627bbf491a7e012cd51f83026ae224/banner.png" width="95%" />
 </p>
 # 📘 README – Perfil del Estudiante
 
