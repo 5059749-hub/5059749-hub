@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**5059749-hub/5059749-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📘 README – Perfil del Estudiante
 
-Here are some ideas to get you started:
+## 🧾 Información General
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Genesis Nicolle Martínez Sánchez
+- 17
+- 3° B
+- Software
+- Instituto Nacional de Santiago de Maria 
+
+---
+
+## 🎯 Intereses
+
+- Musica
+- Ingles
+- Basket
+
+---
+
+## 🧠 Habilidades
+
+- Responsabilidad
+- Organizacion 
+- Memorizacion
+
+---
+
+## 💻 Conocimientos Técnicos
+
+- Python, SQL, PHP  
+- Herramientas tecnológicas:Word, LateX  
+- Otros conocimientos: Redes Sociales  
+
+---
+
+## 📚 Experiencia Académica
+
+- Elaboracion de consultas en SQL en Managment Studio 
+- Creacion de documentos en LateX 
+
+---
+
+## 🎯 Objetivos Personales
+
+- Mejorar mis habilidades en programacion
+- Terminar mis estudios con buenas calificaciones
+
+---
+
+## 📌 Nota
+Soy una estudiante con interes en aprender constantemente, mejorar mis habilidades y apoyar a las personas que me rodean
